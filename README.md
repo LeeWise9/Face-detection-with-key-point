@@ -16,12 +16,12 @@ This is a human face detection project, which can detect human faces and mark ke
 ## 注意<br>
 本项目删减了训练功能，只能实现检测。
 
-# 效果<br>
+## 效果<br>
 <p align="center">
-	<img src="https://github.com/LeeWise9/Face-detection-with-key-point/blob/master/sample1.jpg" alt="Sample"  width="500">
+	<img src="https://github.com/LeeWise9/Face-detection-with-key-point/blob/master/sample1.jpg" alt="Sample"  width="600">
 </p>
 
 
 <p align="center">
-	<img src="https://github.com/LeeWise9/Face-detection-with-key-point/blob/master/sample0.jpg" alt="Sample"  width="500">
+	<img src="https://github.com/LeeWise9/Face-detection-with-key-point/blob/master/sample0.jpg" alt="Sample"  width="600">
 </p>
