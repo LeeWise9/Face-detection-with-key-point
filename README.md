@@ -9,12 +9,17 @@ This is a human face detection project, which can detect human faces and mark ke
 
 
 ## 用法<br>
-运行 mask 文件夹中的 ```detect.py``` 实现人脸检测。
+运行 task 文件夹中的 ```detect.py``` 实现人脸检测。
 
 在此之前，请保证待检测的文件目录与数据是正确的。
 
 ## 注意<br>
-本项目删减了训练功能，只能实现检测。
+处理不同分辨率的图像，检测速度将出现波动。
+
+处理视频中的模糊帧易出现误检与漏检。
+
+目前暂不支持模型训练，仅支持推理。
+
 
 ## 效果<br>
 <p align="center">
