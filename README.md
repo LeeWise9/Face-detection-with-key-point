@@ -1,4 +1,4 @@
-# Face-detection-with-key-point
+# Face-detection-with-landmarks
 This is a human face detection project, which can detect human faces and mark key points at the same time
 
 这是一个人脸与人脸关键点检测的 demo。
